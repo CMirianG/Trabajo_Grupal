@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmiri\\Desktop\\repos\\Proyecto_Analisis-Grupo\\Proyecto_Analisis-Grupo.csproj": {}
+    "C:\\Users\\cmiri\\Desktop\\repos\\Trabajo_Grupal\\Proyecto_Analisis-Grupo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmiri\\Desktop\\repos\\Proyecto_Analisis-Grupo\\Proyecto_Analisis-Grupo.csproj": {
+    "C:\\Users\\cmiri\\Desktop\\repos\\Trabajo_Grupal\\Proyecto_Analisis-Grupo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmiri\\Desktop\\repos\\Proyecto_Analisis-Grupo\\Proyecto_Analisis-Grupo.csproj",
+        "projectUniqueName": "C:\\Users\\cmiri\\Desktop\\repos\\Trabajo_Grupal\\Proyecto_Analisis-Grupo.csproj",
         "projectName": "Proyecto_Analisis-Grupo",
-        "projectPath": "C:\\Users\\cmiri\\Desktop\\repos\\Proyecto_Analisis-Grupo\\Proyecto_Analisis-Grupo.csproj",
+        "projectPath": "C:\\Users\\cmiri\\Desktop\\repos\\Trabajo_Grupal\\Proyecto_Analisis-Grupo.csproj",
         "packagesPath": "C:\\Users\\cmiri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmiri\\Desktop\\repos\\Proyecto_Analisis-Grupo\\obj\\",
+        "outputPath": "C:\\Users\\cmiri\\Desktop\\repos\\Trabajo_Grupal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cmiri\\AppData\\Roaming\\NuGet\\NuGet.Config"
