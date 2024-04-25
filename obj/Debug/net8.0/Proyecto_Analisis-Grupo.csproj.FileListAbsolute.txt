@@ -1,0 +1,14 @@
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\bin\Debug\net8.0\Proyecto_Analisis-Grupo.exe
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\bin\Debug\net8.0\Proyecto_Analisis-Grupo.deps.json
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\bin\Debug\net8.0\Proyecto_Analisis-Grupo.runtimeconfig.json
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\bin\Debug\net8.0\Proyecto_Analisis-Grupo.dll
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\bin\Debug\net8.0\Proyecto_Analisis-Grupo.pdb
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\Proyecto_Analisis-Grupo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\Proyecto_Analisis-Grupo.AssemblyInfoInputs.cache
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\Proyecto_Analisis-Grupo.AssemblyInfo.cs
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\Proyecto_Analisis-Grupo.csproj.CoreCompileInputs.cache
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\Proyecto_Analisis-Grupo.dll
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\refint\Proyecto_Analisis-Grupo.dll
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\Proyecto_Analisis-Grupo.pdb
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\Proyecto_Analisis-Grupo.genruntimeconfig.cache
+C:\Users\cmiri\Desktop\repos\Proyecto_Analisis-Grupo\obj\Debug\net8.0\ref\Proyecto_Analisis-Grupo.dll
